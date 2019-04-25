@@ -1,0 +1,184 @@
+
+ultimate-pillow-fighters.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 1, 811
+  size: 174, 96
+  split: 27, 29, 33, 44
+  pad: 17, 20, 5, 29
+  orig: 174, 96
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1421, 1536
+  size: 174, 96
+  split: 27, 29, 33, 44
+  pad: 17, 20, 15, 19
+  orig: 174, 96
+  offset: 0, 0
+  index: -1
+checkbox-off
+  rotate: false
+  xy: 1599, 1634
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+checkbox-on
+  rotate: false
+  xy: 239, 936
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 1, 1277
+  size: 506, 183
+  orig: 506, 183
+  offset: 0, 0
+  index: -1
+font-score
+  rotate: false
+  xy: 1, 977
+  size: 506, 298
+  orig: 506, 298
+  offset: 0, 0
+  index: -1
+font-title
+  rotate: false
+  xy: 1, 1462
+  size: 1418, 248
+  orig: 1418, 248
+  offset: 0, 0
+  index: -1
+list
+  rotate: false
+  xy: 177, 854
+  size: 44, 53
+  split: 4, 4, 4, 4
+  pad: 7, 7, 4, 4
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+progress-bar
+  rotate: false
+  xy: 509, 1394
+  size: 236, 66
+  orig: 236, 66
+  offset: 0, 0
+  index: -1
+progress-bar-knob
+  rotate: false
+  xy: 1, 909
+  size: 236, 66
+  orig: 236, 66
+  offset: 0, 0
+  index: -1
+scroll-horizontal
+  rotate: false
+  xy: 1687, 1703
+  size: 25, 7
+  split: 2, 2, 2, 2
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+scroll-vertical
+  rotate: false
+  xy: 646, 1326
+  size: 7, 25
+  split: 2, 2, 2, 2
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+select-box
+  rotate: false
+  xy: 1421, 1634
+  size: 176, 39
+  split: 13, 33, 5, 5
+  pad: 13, 33, 4, 4
+  orig: 176, 39
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 1421, 1675
+  size: 264, 35
+  split: 47, 47, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 264, 35
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 747, 1402
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+split
+  rotate: false
+  xy: 509, 1157
+  size: 15, 36
+  split: 5, 5, 5, 5
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 509, 1353
+  size: 175, 39
+  split: 13, 13, 13, 13
+  pad: 13, 13, 4, 4
+  orig: 175, 39
+  offset: 0, 0
+  index: -1
+touchpad
+  rotate: false
+  xy: 1, 703
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+touchpad-knob
+  rotate: false
+  xy: 1421, 1462
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+tree-minus
+  rotate: false
+  xy: 686, 1385
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+tree-plus
+  rotate: false
+  xy: 1597, 1610
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1, 700
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 509, 1195
+  size: 135, 156
+  split: 30, 34, 39, 33
+  pad: 5, 12, 39, 11
+  orig: 135, 156
+  offset: 0, 0
+  index: -1
